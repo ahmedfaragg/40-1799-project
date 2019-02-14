@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "475797760716",
+    "firebase_url": "https://networkprotocolmilestone0.firebaseio.com",
+    "project_id": "networkprotocolmilestone0",
+    "storage_bucket": "networkprotocolmilestone0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475797760716:android:213bc897256a9725",
+        "android_client_info": {
+          "package_name": "com.example.networkprotocolmilestone0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475797760716-e9ip432o237mgc9uefh65fr82cco7hnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.networkprotocolmilestone0",
+            "certificate_hash": "ee80e40f3c64fce5fae1e40383aeb2d3af44cd54"
+          }
+        },
+        {
+          "client_id": "475797760716-4nkg9m88hgfss48tlp7mgahqkjmao5k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5Bpr5w2H4beFCtiObtnX0BLbUal3pEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475797760716-4nkg9m88hgfss48tlp7mgahqkjmao5k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

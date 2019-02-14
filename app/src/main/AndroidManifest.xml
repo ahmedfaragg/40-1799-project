@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ThirdWindow"></activity>
+        <activity android:name=".Register"></activity>
+        <activity android:name=".ThirdWindow" />
         <activity android:name=".List" />
         <activity android:name=".MainActivity">
             <intent-filter>
